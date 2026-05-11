@@ -30,6 +30,14 @@
 \usepackage{multirow}
 \newcommand*{\MyIndent}{\hspace*{0.2cm}}%
 
+% Маркеры не нумерованных списков «itemize» — длинное тире; enumerate (цифры) и description не меняются.
+\AtBeginDocument{%
+  \renewcommand\labelitemi{\textemdash}%
+  \renewcommand\labelitemii{\textemdash}%
+  \renewcommand\labelitemiii{\textemdash}%
+  \renewcommand\labelitemiv{\textemdash}%
+}
+
 \Chair{Кафедра автоматизации систем вычислительных комплексов
 }
 \Lab{~}

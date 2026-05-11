@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.22)  11 MAY 2026 18:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.22)  11 MAY 2026 19:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -332,25 +332,31 @@ Language: russian 2020/09/09 1.3k Russian support for the Babel system
 Package babel Info: Making " an active character on input line 124.
 Package babel Info: Default for \cyrdash is provided on input line 163.
 ))
-(C:\Program Files\MiKTeX\tex/latex/tools\indentfirst.sty
-Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
-)
-(C:\Program Files\MiKTeX\tex/latex/amsfonts\amsfonts.sty
-Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks22
-\symAMSa=\mathgroup4
-\symAMSb=\mathgroup5
-LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
-LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)
-(C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty
-Package: amstext 2024/11/17 v2.01 AMS text
 
-(C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks23
-\ex@=\dimen154
+! LaTeX Error: File `enumitem.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+! Emergency stop.
+<read *> 
+         
+l.11 \usepackage
+                {indentfirst}^^M
+*** (cannot \read from terminal in nonstop modes)
+
+ 
+Here is how much of TeX's memory you used:
+ 2813 strings out of 467690
+ 41677 string characters out of 5425033
+ 459877 words of memory out of 5000000
+ 31896 multiletter control sequences out of 15000+600000
+ 628821 words of font info for 42 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,0n,79p,236b,87s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!
+x@=\dimen154
 ))
 (C:\Program Files\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
@@ -988,26 +994,26 @@ Package babel Info: 'russian' activates 'russian' shorthands.
 (Chapter5.aux) (Chapter6.aux) (Chapter7.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
 
 (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1030,14 +1036,14 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Info: Redefining \th on input line 69.
+LaTeX Info: Redefining \th on input line 77.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 69.
+Package hyperref Info: Link coloring OFF on input line 77.
  (main.out)
 (main.out)
 \@outlinefile=\write4
@@ -1047,7 +1053,7 @@ Package hyperref Info: Link coloring OFF on input line 69.
 <./gzlogo.png, id=126, 1335.99126pt x 569.12625pt>
 File: ./gzlogo.png Graphic file (type png)
 <use ./gzlogo.png>
-Package pdftex.def Info: ./gzlogo.png  used on input line 70.
+Package pdftex.def Info: ./gzlogo.png  used on input line 78.
 (pdftex.def)             Requested size: 267.15274pt x 113.81102pt.
  [1
 
@@ -1090,58 +1096,66 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 
 
-]) [10]
+]
+LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
+46.
+
+(C:\Program Files\MiKTeX\tex/latex/cyrillic\t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+) [10]
+Overfull \hbox (0.59465pt too wide) in paragraph at lines 54--55
+[]\T2A/cmr/m/n/12 ^^V при го-ри-зон-таль-ном раз-
+ []
+
+
+Overfull \hbox (11.7517pt too wide) in paragraph at lines 56--57
+[]\T2A/cmr/m/n/12 ^^V ес-ли таб-
+ []
+
+) [11]
 \openout2 = `Chapter3.aux'.
 
- (Chapter3.tex [11
+ (Chapter3.tex [12
 
 
 
-]
-[12]
+] [13]
 Overfull \hbox (2.48674pt too wide) in paragraph at lines 27--28
 \T2A/cmr/m/n/12 ти-че-ско-го пу-ти к каж-дой вер-шине) да-јт при-о-ри-те-ты для
  об-хо-да в FFL/FFLS
  []
 
-) [13]
+) [14]
 \openout2 = `Chapter4.aux'.
 
- (Chapter4.tex [14
+ (Chapter4.tex [15
 
 
 
-]) [15]
+]) [16]
 \openout2 = `Chapter5.aux'.
 
- (Chapter5.tex
-LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
-7.
-
-(C:\Program Files\MiKTeX\tex/latex/cyrillic\t2acmtt.fd
-File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-) [16
+ (Chapter5.tex [17
 
 
 
-]) [17]
+]) [18]
 \openout2 = `Chapter6.aux'.
 
-
-(Chapter6.tex
+ (Chapter6.tex
 Overfull \hbox (7.21703pt too wide) in paragraph at lines 13--14
 \T2A/cmr/m/n/12 ма-лы; при $\OML/cmm/m/it/12 n$ \T2A/cmr/m/n/12 по-ряд-ка со-те
 н до-пол-ни-тель-ные рас-хо-ды FFLS оста-ют-ся сортировочно-
  []
 
-[18
+[19
 
 
 
-]) [19]
+]) [20]
 \openout2 = `Chapter7.aux'.
 
- (Chapter7.tex) [20
+ (Chapter7.tex) [21
 
 
 
@@ -1151,7 +1165,7 @@ Underfull \hbox (badness 1028) in paragraph at lines 12--18
 Bosshart,
  []
 
-) [21
+) [22
 
 
 ] (main.aux (Chapter0.aux) (Chapter1.aux) (Chapter2.aux) (Chapter3.aux)
@@ -1161,32 +1175,36 @@ LaTeX2e <2025-11-01>
 L3 programming layer <2026-03-20>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 341CE660C875B7BB14C15465033B2407;7792.
+(rerunfilecheck)             Checksum: B6F53C631F97412054D218A409A32F14;7792.
  ) 
 Here is how much of TeX's memory you used:
- 27030 strings out of 467690
- 487168 string characters out of 5425033
- 885346 words of memory out of 5000000
- 55503 multiletter control sequences out of 15000+600000
+ 27033 strings out of 467690
+ 487239 string characters out of 5425033
+ 885133 words of memory out of 5000000
+ 55505 multiletter control sequences out of 15000+600000
  641627 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,6n,108p,2163b,642s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\drogi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\latt12
 00.pk> <C:\Users\drogi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
-bx1440.pk> <C:\Users\drogi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
-0\lati1200.pk> <C:\Users\drogi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/d
-pi600\labx1200.pk> <C:\Users\drogi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t
-2a/dpi600\labx1728.pk> <C:\Users\drogi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/
-lh-t2a/dpi600\larm1728.pk> <C:\Users\drogi\AppData\Local\MiKTeX\fonts/pk/ljfour
-/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\drogi\AppData\Local\MiKTeX\fonts/pk/lj
-four/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\drogi\AppData\Local\MiKTeX\fonts/p
-k/ljfour/lh/lh-t2a/dpi600\larm1440.pk><C:/Program Files/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/
-cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><
-C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (21 pages, 300294 bytes).
+rm0800.pk> <C:\Users\drogi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
+0\labx1440.pk> <C:\Users\drogi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/d
+pi600\lati1200.pk> <C:\Users\drogi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t
+2a/dpi600\labx1200.pk> <C:\Users\drogi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/
+lh-t2a/dpi600\labx1728.pk> <C:\Users\drogi\AppData\Local\MiKTeX\fonts/pk/ljfour
+/lh/lh-t2a/dpi600\larm1728.pk> <C:\Users\drogi\AppData\Local\MiKTeX\fonts/pk/lj
+four/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\drogi\AppData\Local\MiKTeX\fonts/p
+k/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\drogi\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk><C:/Program Files/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.
+pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Progra
+m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX/fonts/type
+1/public/amsfonts/symbols/msbm10.pfb>
+Output written on main.pdf (22 pages, 336407 bytes).
 PDF statistics:
- 819 PDF objects out of 1000 (max. 8388607)
- 79 named destinations out of 1000 (max. 500000)
+ 857 PDF objects out of 1000 (max. 8388607)
+ 80 named destinations out of 1000 (max. 500000)
  258 words of extra memory for PDF output out of 10000 (max. 10000000)
 
