@@ -7,8 +7,27 @@
 \ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi
 \ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
 
+\bibitem{Bosshart2014}
+\selectlanguageifdefined{english}
+P4: Programming Protocol-Independent Packet Processors~/ Pat~Bosshart,
+  Dan~Daly, Glen~Gibb et~al.~// \BibEmph{ACM SIGCOMM Computer Communication
+  Review}. ---
+\newblock 2014. ---
+\newblock Vol.~44, no.~3. ---
+\newblock Pp.~87--95.
+
+\bibitem{rmt-p4-placement}
+\selectlanguageifdefined{english}
+{p4c}: reference compiler for the {P4} language. ---
+\newblock GitHub. ---
+\newblock дата обращения: 11.05.2026. \BibUrl{
+  https://github.com/p4lang/p4c}.
+
 \bibitem{p4spec}
 \selectlanguageifdefined{english}
-P4 Language Specification. \BibUrl{ https://p4.org/specs/}.
+P4 Language Specification. ---
+\newblock P4.org. ---
+\newblock дата обращения: 11.05.2026. \BibUrl{
+  https://p4.org/specs/}.
 
 \end{thebibliography}
