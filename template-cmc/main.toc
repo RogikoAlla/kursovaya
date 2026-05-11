@@ -1,0 +1,16 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Введение}{4}{section.1}%
+\contentsline {section}{\numberline {2}Предметная область}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Сетевые процессорные устройства}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Архитектура RMT}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Программа обработки пакетов и язык P4}{6}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Граф зависимостей и виды зависимостей внутри таблиц P4}{6}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Цель работы и постановка задачи}{8}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Цель работы}{8}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Поставленные задачи:}{8}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Обзор существующих алгоритмов}{9}{section.4}%
+\contentsline {section}{\numberline {5}Реализованные алгоритмы}{10}{section.5}%
+\contentsline {section}{\numberline {6}Описание архитектуры реализованных алгоритмов}{11}{section.6}%
+\contentsline {section}{\numberline {7}Экспериментальное исследование}{12}{section.7}%
+\contentsline {section}{\numberline {8}Заключение}{13}{section.8}%
+\contentsline {section}{{\cyrillictext \CYRS \cyrp \cyri \cyrs \cyro \cyrk \ \cyrl \cyri \cyrt \cyre \cyrr \cyra \cyrt \cyru \cyrr \cyrery }}{14}{section*.8}%
