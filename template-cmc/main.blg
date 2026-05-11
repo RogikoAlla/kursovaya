@@ -17,15 +17,13 @@ Reallocating 'name_of_file' (item size: 1) to 13 items.
 A level-1 auxiliary file: Chapter6.aux
 Reallocating 'name_of_file' (item size: 1) to 13 items.
 A level-1 auxiliary file: Chapter7.aux
-Reallocating 'name_of_file' (item size: 1) to 13 items.
-A level-1 auxiliary file: Chapter8.aux
 Reallocating 'name_of_file' (item size: 1) to 8 items.
 The style file: gost71u.bst
 Reallocating 'name_of_file' (item size: 1) to 11 items.
 Database file #1: references.bib
 You've used 3 entries,
             2674 wiz_defined-function locations,
-            664 strings with 5624 characters,
+            663 strings with 5612 characters,
 and the built_in function-call counts, 753 in all, are:
 = -- 96
 > -- 18

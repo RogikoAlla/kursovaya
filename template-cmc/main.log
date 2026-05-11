@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.22)  11 MAY 2026 18:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.22)  11 MAY 2026 18:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -985,7 +985,7 @@ Package babel Info: 'russian' activates 'russian' shorthands.
 (babel)             Reported on input line 8.
 
 (Chapter0.aux) (Chapter1.aux) (Chapter2.aux) (Chapter3.aux) (Chapter4.aux)
-(Chapter5.aux) (Chapter6.aux) (Chapter7.aux) (Chapter8.aux))
+(Chapter5.aux) (Chapter6.aux) (Chapter7.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
@@ -1044,7 +1044,7 @@ Package hyperref Info: Link coloring OFF on input line 69.
 \openout4 = `main.out'.
 
 \c@lstlisting=\count367
-<./gzlogo.png, id=146, 1335.99126pt x 569.12625pt>
+<./gzlogo.png, id=126, 1335.99126pt x 569.12625pt>
 File: ./gzlogo.png Graphic file (type png)
 <use ./gzlogo.png>
 Package pdftex.def Info: ./gzlogo.png  used on input line 70.
@@ -1086,79 +1086,62 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ] [7]) [8]
 \openout2 = `Chapter2.aux'.
 
- (Chapter2.tex) [9
+ (Chapter2.tex [9
+
+
+
+]) [10]
+\openout2 = `Chapter3.aux'.
+
+ (Chapter3.tex [11
 
 
 
 ]
-\openout2 = `Chapter3.aux'.
-
- (Chapter3.tex [10
-
-
-
-] [11]
-Overfull \hbox (2.48674pt too wide) in paragraph at lines 28--29
+[12]
+Overfull \hbox (2.48674pt too wide) in paragraph at lines 27--28
 \T2A/cmr/m/n/12 ти-че-ско-го пу-ти к каж-дой вер-шине) да-јт при-о-ри-те-ты для
  об-хо-да в FFL/FFLS
  []
 
-[12]) [13]
+) [13]
 \openout2 = `Chapter4.aux'.
 
- (Chapter4.tex
-LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
-7.
- (C:\Program Files\MiKTeX\tex/latex/cyrillic\t2acmtt.fd
-File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)
-Overfull \hbox (17.67252pt too wide) in paragraph at lines 15--16
-[]\T2A/cmr/m/n/12 модуль го-ри-зон-таль-но-го раз-ре-за-ния --- вы-зы-ва-ет-ся 
-пла-ни-ров-щи-ком при нехват-
- []
-
-[14
+ (Chapter4.tex [14
 
 
 
-] [15]) [16]
+]) [15]
 \openout2 = `Chapter5.aux'.
 
  (Chapter5.tex
-Overfull \hbox (1.33209pt too wide) in paragraph at lines 5--6
-[]\T2A/cmr/m/n/12 Архитектура ре-ше-ния ор-га-ни-зо-ва-на в три уров-ня. На \T2
-A/cmr/m/it/12 ка-но-ни-че-ском \T2A/cmr/m/n/12 уровне
- []
+LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
+7.
 
-
-Overfull \hbox (13.73482pt too wide) in paragraph at lines 8--9
-\T2A/cmr/m/n/12 ``нель-зя в од-ной ста-дии''. Мо-дуль ре-сур-сов ре-а-ли-зи-ру-
-ет сум-ми-ро-ва-ние SRAM/TCAM
- []
-
-) [17
+(C:\Program Files\MiKTeX\tex/latex/cyrillic\t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+) [16
 
 
 
-] [18]
+]) [17]
 \openout2 = `Chapter6.aux'.
 
- (Chapter6.tex [19
+
+(Chapter6.tex
+Overfull \hbox (7.21703pt too wide) in paragraph at lines 13--14
+\T2A/cmr/m/n/12 ма-лы; при $\OML/cmm/m/it/12 n$ \T2A/cmr/m/n/12 по-ряд-ка со-те
+н до-пол-ни-тель-ные рас-хо-ды FFLS оста-ют-ся сортировочно-
+ []
+
+[18
 
 
 
-]) [20]
+]) [19]
 \openout2 = `Chapter7.aux'.
 
- (Chapter7.tex) [21
-
-
-
-]
-\openout2 = `Chapter8.aux'.
-
- (Chapter8.tex)
-[22
+ (Chapter7.tex) [20
 
 
 
@@ -1168,26 +1151,26 @@ Underfull \hbox (badness 1028) in paragraph at lines 12--18
 Bosshart,
  []
 
-) [23
+) [21
 
 
 ] (main.aux (Chapter0.aux) (Chapter1.aux) (Chapter2.aux) (Chapter3.aux)
-(Chapter4.aux) (Chapter5.aux) (Chapter6.aux) (Chapter7.aux) (Chapter8.aux))
+(Chapter4.aux) (Chapter5.aux) (Chapter6.aux) (Chapter7.aux))
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-03-20>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 235FDC24227932AFB689ED72510351C1;8922.
+(rerunfilecheck)             Checksum: 341CE660C875B7BB14C15465033B2407;7792.
  ) 
 Here is how much of TeX's memory you used:
- 27066 strings out of 467690
- 488031 string characters out of 5425033
- 886890 words of memory out of 5000000
- 55525 multiletter control sequences out of 15000+600000
+ 27030 strings out of 467690
+ 487168 string characters out of 5425033
+ 885346 words of memory out of 5000000
+ 55503 multiletter control sequences out of 15000+600000
  641627 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,6n,108p,1647b,658s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,6n,108p,2163b,642s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\drogi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\latt12
 00.pk> <C:\Users\drogi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
 bx1440.pk> <C:\Users\drogi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
@@ -1201,9 +1184,9 @@ k/ljfour/lh/lh-t2a/dpi600\larm1440.pk><C:/Program Files/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/
 cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><
 C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (23 pages, 309857 bytes).
+Output written on main.pdf (21 pages, 300294 bytes).
 PDF statistics:
- 862 PDF objects out of 1000 (max. 8388607)
- 86 named destinations out of 1000 (max. 500000)
- 298 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 819 PDF objects out of 1000 (max. 8388607)
+ 79 named destinations out of 1000 (max. 500000)
+ 258 words of extra memory for PDF output out of 10000 (max. 10000000)
 

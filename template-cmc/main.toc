@@ -6,29 +6,24 @@
 \contentsline {subsection}{\numberline {2.3}Программа обработки пакетов и язык P4}{7}{subsection.2.3}%
 \contentsline {subsection}{\numberline {2.4}Граф зависимостей и виды зависимостей внутри таблиц P4}{7}{subsection.2.4}%
 \contentsline {section}{\numberline {3}Цель работы и постановка задачи}{9}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Цель работы}{9}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Поставленные задачи:}{9}{subsection.3.2}%
-\contentsline {section}{\numberline {4}Обзор существующих алгоритмов}{10}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Задача размещения в контексте компиляции P4}{10}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Жадные эвристики размещения}{10}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Горизонтальное разрезание таблиц}{11}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Декомпозиция задачи на подзадачи}{12}{subsection.4.4}%
+\contentsline {subsection}{\numberline {3.1}Актуальность работы}{9}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Цель работы}{9}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Постановка задачи}{9}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Ограничения}{10}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Обзор существующих алгоритмов}{11}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Задача размещения в контексте компиляции P4}{11}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Жадные эвристики размещения}{11}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Декомпозиция задачи на подзадачи}{12}{subsection.4.3}%
 \contentsline {section}{\numberline {5}Реализованные алгоритмы}{14}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Выбор языка и библиотек}{14}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Архитектура программного комплекса}{14}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Схема функционирования}{15}{subsection.5.3}%
-\contentsline {subsection}{\numberline {5.4}Оценка вычислительной сложности}{15}{subsection.5.4}%
-\contentsline {subsection}{\numberline {5.5}Характеристики выполнения}{16}{subsection.5.5}%
-\contentsline {section}{\numberline {6}Описание архитектуры реализованных алгоритмов}{17}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Уровни абстрагирования}{17}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}Разделение ответственности модулей}{17}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}Интерфейсы и расширяемость}{18}{subsection.6.3}%
-\contentsline {section}{\numberline {7}Экспериментальное исследование}{19}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Цель и метрики}{19}{subsection.7.1}%
-\contentsline {subsection}{\numberline {7.2}Методика генерации входов}{19}{subsection.7.2}%
-\contentsline {subsection}{\numberline {7.3}Наблюдаемые закономерности}{19}{subsection.7.3}%
-\contentsline {subsection}{\numberline {7.4}Сравнение времени выполнения}{20}{subsection.7.4}%
-\contentsline {subsection}{\numberline {7.5}Выводы по экспериментам}{20}{subsection.7.5}%
-\contentsline {section}{\numberline {8}Заключение}{21}{section.8}%
-\contentsline {section}{\numberline {9}Перспективы дальнейшей работы}{22}{section.9}%
-\contentsline {section}{{\cyrillictext \CYRS \cyrp \cyri \cyrs \cyro \cyrk \ \cyrl \cyri \cyrt \cyre \cyrr \cyra \cyrt \cyru \cyrr \cyrery }}{23}{section*.3}%
+\contentsline {subsection}{\numberline {5.1}Горизонтальное разрезание таблиц}{14}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Многопроходный FFD}{14}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}FFLS}{15}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Описание архитектуры реализованных алгоритмов}{16}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Структура кода и основные модули}{16}{subsection.6.1}%
+\contentsline {section}{\numberline {7}Экспериментальное исследование}{18}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Методика экспериментального исследования}{18}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Анализ полученных результатов}{18}{subsection.7.2}%
+\contentsline {subsubsection}{\numberline {7.2.1}Результаты сравнения алгоритмов по времени выполнения}{18}{subsubsection.7.2.1}%
+\contentsline {subsubsection}{\numberline {7.2.2}Результаты сравнения алгоритмов по количеству стадий}{18}{subsubsection.7.2.2}%
+\contentsline {section}{\numberline {8}Заключение}{20}{section.8}%
+\contentsline {section}{{\cyrillictext \CYRS \cyrp \cyri \cyrs \cyro \cyrk \ \cyrl \cyri \cyrt \cyre \cyrr \cyra \cyrt \cyru \cyrr \cyrery }}{21}{section*.3}%
