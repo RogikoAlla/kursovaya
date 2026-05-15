@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.22)  11 MAY 2026 19:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.22)  15 MAY 2026 12:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -332,31 +332,25 @@ Language: russian 2020/09/09 1.3k Russian support for the Babel system
 Package babel Info: Making " an active character on input line 124.
 Package babel Info: Default for \cyrdash is provided on input line 163.
 ))
+(C:\Program Files\MiKTeX\tex/latex/tools\indentfirst.sty
+Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks22
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
 
-! LaTeX Error: File `enumitem.sty' not found.
-
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: sty)
-
-Enter file name: 
-! Emergency stop.
-<read *> 
-         
-l.11 \usepackage
-                {indentfirst}^^M
-*** (cannot \read from terminal in nonstop modes)
-
- 
-Here is how much of TeX's memory you used:
- 2813 strings out of 467690
- 41677 string characters out of 5425033
- 459877 words of memory out of 5000000
- 31896 multiletter control sequences out of 15000+600000
- 628821 words of font info for 42 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 72i,0n,79p,236b,87s stack positions out of 10000i,1000n,20000p,200000b,200000s
-!  ==> Fatal error occurred, no output PDF file produced!
-x@=\dimen154
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks23
+\ex@=\dimen154
 ))
 (C:\Program Files\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
@@ -1096,50 +1090,87 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 
 
-]
-LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
-46.
-
-(C:\Program Files\MiKTeX\tex/latex/cyrillic\t2acmtt.fd
-File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-) [10]
-Overfull \hbox (0.59465pt too wide) in paragraph at lines 54--55
-[]\T2A/cmr/m/n/12 ^^V при го-ри-зон-таль-ном раз-
- []
-
-
-Overfull \hbox (11.7517pt too wide) in paragraph at lines 56--57
-[]\T2A/cmr/m/n/12 ^^V ес-ли таб-
- []
-
-) [11]
+]) [10]
 \openout2 = `Chapter3.aux'.
 
- (Chapter3.tex [12
+ (Chapter3.tex
+
+LaTeX Warning: Citation `vass2020compiling' on page 11 undefined on input line 
+7.
+
+
+LaTeX Warning: Citation `jose2015compiling' on page 11 undefined on input line 
+12.
+
+
+LaTeX Warning: Citation `jose2015compiling' on page 11 undefined on input line 
+18.
+
+
+LaTeX Warning: Citation `jose2015compiling' on page 11 undefined on input line 
+21.
+
+[11
 
 
 
-] [13]
-Overfull \hbox (2.48674pt too wide) in paragraph at lines 27--28
-\T2A/cmr/m/n/12 ти-че-ско-го пу-ти к каж-дой вер-шине) да-јт при-о-ри-те-ты для
- об-хо-да в FFL/FFLS
- []
-
-) [14]
+]) [12] [13]
 \openout2 = `Chapter4.aux'.
 
- (Chapter4.tex [15
+ (Chapter4.tex
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...Р°С‚РµР»СЊРЅРѕСЃС‚Рё С„СЂР°РіРјРµРЅС‚РѕРІ]
+                                                   вЂ” РїСЂРё РіРѕСЂРёР·РѕРЅ...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 10
+[][]
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 ...ЃРёРјРѕСЃС‚Рё РїСЂРё СЂР°Р·СЂРµР·Р°РЅРёРё]
+                                                   вЂ” РµСЃР»Рё С‚Р°Р±Р»РёС†...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 12
+[][]
+ []
+
+[14
 
 
 
-]) [16]
+]) [15]
 \openout2 = `Chapter5.aux'.
 
- (Chapter5.tex [17
+ (Chapter5.tex
+LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
+7.
+ (C:\Program Files\MiKTeX\tex/latex/cyrillic\t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+) [16
 
 
 
-]) [18]
+]) [17]
 \openout2 = `Chapter6.aux'.
 
  (Chapter6.tex
@@ -1148,14 +1179,14 @@ Overfull \hbox (7.21703pt too wide) in paragraph at lines 13--14
 н до-пол-ни-тель-ные рас-хо-ды FFLS оста-ют-ся сортировочно-
  []
 
-[19
+[18
 
 
 
-]) [20]
+]) [19]
 \openout2 = `Chapter7.aux'.
 
- (Chapter7.tex) [21
+ (Chapter7.tex) [20
 
 
 
@@ -1165,7 +1196,7 @@ Underfull \hbox (badness 1028) in paragraph at lines 12--18
 Bosshart,
  []
 
-) [22
+) [21
 
 
 ] (main.aux (Chapter0.aux) (Chapter1.aux) (Chapter2.aux) (Chapter3.aux)
@@ -1174,14 +1205,18 @@ Bosshart,
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-03-20>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B6F53C631F97412054D218A409A32F14;7792.
+(rerunfilecheck)             Checksum: 48EB33F55C1315F5D6FABE0B2329E09E;7905.
  ) 
 Here is how much of TeX's memory you used:
- 27033 strings out of 467690
- 487239 string characters out of 5425033
- 885133 words of memory out of 5000000
- 55505 multiletter control sequences out of 15000+600000
+ 27029 strings out of 467690
+ 487216 string characters out of 5425033
+ 886051 words of memory out of 5000000
+ 55504 multiletter control sequences out of 15000+600000
  641627 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,6n,108p,2163b,642s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1199,12 +1234,10 @@ ts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk><C:/Program Files/MiKTeX/fonts/type1/
 public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfo
 nts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.
 pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Progra
-m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX/fonts/type
-1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (22 pages, 336407 bytes).
+m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on main.pdf (21 pages, 317798 bytes).
 PDF statistics:
- 857 PDF objects out of 1000 (max. 8388607)
- 80 named destinations out of 1000 (max. 500000)
+ 838 PDF objects out of 1000 (max. 8388607)
+ 77 named destinations out of 1000 (max. 500000)
  258 words of extra memory for PDF output out of 10000 (max. 10000000)
 
