@@ -1,35 +1,29 @@
 \babel@toc {russian}{}\relax 
-\contentsline {section}{\numberline {1}Введение}{5}{section.1}%
-\contentsline {section}{\numberline {2}Предметная область}{6}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Сетевые процессорные устройства}{6}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Архитектура RMT}{6}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Программа обработки пакетов и язык P4}{7}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}Граф зависимостей и виды зависимостей внутри таблиц P4}{7}{subsection.2.4}%
-\contentsline {section}{\numberline {3}Цель работы и постановка задачи}{9}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Актуальность работы}{9}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Цель работы}{9}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Постановка задачи}{9}{subsection.3.3}%
-\contentsline {paragraph}{Дано:}{9}{section*.2}%
-\contentsline {paragraph}{Требуется:}{10}{section*.3}%
-\contentsline {section}{\numberline {4}Обзор существующих алгоритмов}{11}{section.4}%
-\contentsline {subsection}{\numberline {4.1}NP-трудность задачи размещения таблиц}{11}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Точные методы: целочисленное линейное программирование (ILP)}{11}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Жадные эвристики}{11}{subsection.4.3}%
-\contentsline {paragraph}{FFD (First Fit Decreasing)}{12}{section*.4}%
-\contentsline {paragraph}{FFL (First Fit by Level)}{12}{section*.5}%
-\contentsline {paragraph}{FFLS (First Fit by Level and Size)}{12}{section*.6}%
-\contentsline {paragraph}{MCF (Most Constrained First)}{12}{section*.7}%
-\contentsline {subsection}{\numberline {4.4}Выводы по обзору}{12}{subsection.4.4}%
-\contentsline {section}{\numberline {5}Реализованные алгоритмы}{14}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Горизонтальное разрезание таблиц}{14}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Многопроходный FFD}{14}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}FFLS}{15}{subsection.5.3}%
-\contentsline {section}{\numberline {6}Описание архитектуры реализованных алгоритмов}{16}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Структура кода и основные модули}{16}{subsection.6.1}%
-\contentsline {section}{\numberline {7}Экспериментальное исследование}{18}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Методика экспериментального исследования}{18}{subsection.7.1}%
-\contentsline {subsection}{\numberline {7.2}Анализ полученных результатов}{18}{subsection.7.2}%
-\contentsline {subsubsection}{\numberline {7.2.1}Результаты сравнения алгоритмов по времени выполнения}{18}{subsubsection.7.2.1}%
-\contentsline {subsubsection}{\numberline {7.2.2}Результаты сравнения алгоритмов по количеству стадий}{18}{subsubsection.7.2.2}%
-\contentsline {section}{\numberline {8}Заключение}{20}{section.8}%
-\contentsline {section}{{\cyrillictext \CYRS \cyrp \cyri \cyrs \cyro \cyrk \ \cyrl \cyri \cyrt \cyre \cyrr \cyra \cyrt \cyru \cyrr \cyrery }}{21}{section*.9}%
+\contentsline {section}{\numberline {1}Введение}{4}{section.1}%
+\contentsline {section}{\numberline {2}Предметная область}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Сетевые процессорные устройства}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Архитектура RMT}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Программа обработки пакетов и язык P4}{6}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Граф зависимостей и виды зависимостей внутри таблиц P4}{6}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Цель работы и постановка задачи}{8}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Актуальность работы}{8}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Цель работы}{8}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Постановка задачи}{8}{subsection.3.3}%
+\contentsline {paragraph}{Дано:}{8}{section*.2}%
+\contentsline {paragraph}{Требуется:}{9}{section*.3}%
+\contentsline {section}{\numberline {4}Обзор существующих алгоритмов}{10}{section.4}%
+\contentsline {subsection}{\numberline {4.1}NP-трудность задачи размещения таблиц}{10}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Точные методы: целочисленное линейное программирование (ILP)}{10}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Жадные эвристики}{10}{subsection.4.3}%
+\contentsline {paragraph}{FFD (First Fit Decreasing)}{11}{section*.4}%
+\contentsline {paragraph}{FFL (First Fit by Level)}{11}{section*.5}%
+\contentsline {paragraph}{FFLS (First Fit by Level and Size)}{11}{section*.6}%
+\contentsline {paragraph}{MCF (Most Constrained First)}{11}{section*.7}%
+\contentsline {subsection}{\numberline {4.4}Выводы по обзору}{11}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Реализованные алгоритмы}{13}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Вычисление потребности в блоках памяти}{13}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Горизонтальное разрезание таблиц}{14}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Многопроходный алгоритм FFD}{14}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Алгоритм FFLS (First Fit by Level and Size)}{16}{subsection.5.4}%
+\contentsline {subsubsection}{\numberline {5.4.1}Вычисление уровней}{16}{subsubsection.5.4.1}%
+\contentsline {section}{{\cyrillictext \CYRS \cyrp \cyri \cyrs \cyro \cyrk \ \cyrl \cyri \cyrt \cyre \cyrr \cyra \cyrt \cyru \cyrr \cyrery }}{18}{section*.9}%

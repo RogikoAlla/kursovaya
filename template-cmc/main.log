@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.22)  15 MAY 2026 12:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.22)  19 MAY 2026 14:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -984,8 +984,7 @@ File: l3backend-pdftex.def 2026-02-18 L3 backend support: PDF output (pdfTeX)
 Package babel Info: 'russian' activates 'russian' shorthands.
 (babel)             Reported on input line 8.
 
-(Chapter0.aux) (Chapter1.aux) (Chapter2.aux) (Chapter3.aux) (Chapter4.aux)
-(Chapter5.aux) (Chapter6.aux) (Chapter7.aux))
+(Chapter0.aux) (Chapter1.aux) (Chapter2.aux) (Chapter3.aux) (Chapter4.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
@@ -1044,7 +1043,7 @@ Package hyperref Info: Link coloring OFF on input line 77.
 \openout4 = `main.out'.
 
 \c@lstlisting=\count367
-<./gzlogo.png, id=126, 1335.99126pt x 569.12625pt>
+<./gzlogo.png, id=102, 1335.99126pt x 569.12625pt>
 File: ./gzlogo.png Graphic file (type png)
 <use ./gzlogo.png>
 Package pdftex.def Info: ./gzlogo.png  used on input line 78.
@@ -1064,143 +1063,119 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
 
 (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [3
-
-])
+))
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
- [4]
+ [3
+
+]
 \openout2 = `Chapter0.aux'.
 
  (Chapter0.tex)
-[5
+[4
 
 ]
 \openout2 = `Chapter1.aux'.
 
- (Chapter1.tex [6
+ (Chapter1.tex [5
 
 
 
-] [7]) [8]
+] [6]) [7]
 \openout2 = `Chapter2.aux'.
 
- (Chapter2.tex [9
+ (Chapter2.tex [8
 
 
 
-]) [10]
+]) [9]
 \openout2 = `Chapter3.aux'.
 
  (Chapter3.tex
 
-LaTeX Warning: Citation `vass2020compiling' on page 11 undefined on input line 
+LaTeX Warning: Citation `vass2020compiling' on page 10 undefined on input line 
 7.
 
 
-LaTeX Warning: Citation `jose2015compiling' on page 11 undefined on input line 
+LaTeX Warning: Citation `jose2015compiling' on page 10 undefined on input line 
 12.
 
 
-LaTeX Warning: Citation `jose2015compiling' on page 11 undefined on input line 
+LaTeX Warning: Citation `jose2015compiling' on page 10 undefined on input line 
 18.
 
 
-LaTeX Warning: Citation `jose2015compiling' on page 11 undefined on input line 
+LaTeX Warning: Citation `jose2015compiling' on page 10 undefined on input line 
 21.
 
-[11
+[10
 
 
 
-]) [12] [13]
+]) [11] [12]
 \openout2 = `Chapter4.aux'.
 
  (Chapter4.tex
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.10 ...Р°С‚РµР»СЊРЅРѕСЃС‚Рё С„СЂР°РіРјРµРЅС‚РѕРІ]
-                                                   вЂ” РїСЂРё РіРѕСЂРёР·РѕРЅ...
-
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 10
-[][]
- []
-
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.12 ...ЃРёРјРѕСЃС‚Рё РїСЂРё СЂР°Р·СЂРµР·Р°РЅРёРё]
-                                                   вЂ” РµСЃР»Рё С‚Р°Р±Р»РёС†...
-
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 12
-[][]
- []
-
-[14
-
-
-
-]) [15]
-\openout2 = `Chapter5.aux'.
-
- (Chapter5.tex
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
-7.
- (C:\Program Files\MiKTeX\tex/latex/cyrillic\t2acmtt.fd
+9.
+
+(C:\Program Files\MiKTeX\tex/latex/cyrillic\t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-) [16
+) [13
 
 
 
-]) [17]
-\openout2 = `Chapter6.aux'.
-
- (Chapter6.tex
-Overfull \hbox (7.21703pt too wide) in paragraph at lines 13--14
-\T2A/cmr/m/n/12 ма-лы; при $\OML/cmm/m/it/12 n$ \T2A/cmr/m/n/12 по-ряд-ка со-те
-н до-пол-ни-тель-ные рас-хо-ды FFLS оста-ют-ся сортировочно-
+]
+Overfull \hbox (16.33424pt too wide) in paragraph at lines 46--47
+[]\T2A/cmr/m/n/12 Если таб-ли-ца $\OML/cmm/m/it/12 A$ \T2A/cmr/m/n/12 яв-ля-ет-
+ся пред-ком для таб-ли-цы $\OML/cmm/m/it/12 B$ \T2A/cmr/m/n/12 по match- или re
+verse_match-
  []
 
-[18
+[14]
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
+put line 62.
 
 
+! LaTeX Error: Something's wrong--perhaps a missing \item.
 
-]) [19]
-\openout2 = `Chapter7.aux'.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64 ...ЃС‚Р°РґРёРё $C$, Р·Р°РІРёСЃРёРјРѕСЃС‚Рё \\
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
- (Chapter7.tex) [20
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66 		\STATE
+              РІС‹С‡РёСЃР»РёС‚СЊ $\text{blocks}(t)$ РґР»СЏ РІСЃРµС… $t \in T$
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
+LaTeX Warning: Citation `jose2015compiling' on page 15 undefined on input line 
+90.
 
-] (main.bbl
+[15] [16]) [17] (main.bbl
 Underfull \hbox (badness 1028) in paragraph at lines 12--18
 []\T2A/cmr/m/n/12 P4: Programming Protocol-Independent Packet Processors / Pat 
 Bosshart,
  []
 
-) [21
+) [18
 
 
 ] (main.aux (Chapter0.aux) (Chapter1.aux) (Chapter2.aux) (Chapter3.aux)
-(Chapter4.aux) (Chapter5.aux) (Chapter6.aux) (Chapter7.aux))
+(Chapter4.aux))
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-03-20>
@@ -1210,16 +1185,16 @@ L3 programming layer <2026-03-20>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 48EB33F55C1315F5D6FABE0B2329E09E;7905.
+(rerunfilecheck)             Checksum: 8048CDD874135F941D9AAC9EB9885967;6027.
  ) 
 Here is how much of TeX's memory you used:
- 27029 strings out of 467690
- 487216 string characters out of 5425033
- 886051 words of memory out of 5000000
- 55504 multiletter control sequences out of 15000+600000
+ 27027 strings out of 467690
+ 486053 string characters out of 5425033
+ 884616 words of memory out of 5000000
+ 55505 multiletter control sequences out of 15000+600000
  641627 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,6n,108p,2163b,642s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,10n,108p,1328b,938s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\drogi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\latt12
 00.pk> <C:\Users\drogi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
 rm0800.pk> <C:\Users\drogi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
@@ -1231,13 +1206,16 @@ lh-t2a/dpi600\labx1728.pk> <C:\Users\drogi\AppData\Local\MiKTeX\fonts/pk/ljfour
 four/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\drogi\AppData\Local\MiKTeX\fonts/p
 k/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\drogi\AppData\Local\MiKTeX\fon
 ts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk><C:/Program Files/MiKTeX/fonts/type1/
-public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfo
-nts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.
-pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Progra
-m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (21 pages, 317798 bytes).
+public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8
+.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Prog
+ram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/ams
+fonts/symbols/msbm10.pfb>
+Output written on main.pdf (18 pages, 332839 bytes).
 PDF statistics:
- 838 PDF objects out of 1000 (max. 8388607)
- 77 named destinations out of 1000 (max. 500000)
- 258 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 844 PDF objects out of 1000 (max. 8388607)
+ 95 named destinations out of 1000 (max. 500000)
+ 210 words of extra memory for PDF output out of 10000 (max. 10000000)
 
