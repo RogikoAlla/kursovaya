@@ -1,26 +1,107 @@
-@misc{p4spec,
-  title        = {P4 Language Specification},
-  howpublished = {P4.org},
-  url          = {https://p4.org/specs/},
-  note         = {дата обращения: 11.05.2026},
-  language     = {english}
+% Список литературы курсовой (BibTeX + gost71u.bst)
+
+@article{nikiforov2021isp_ran,
+  author  = {Никифоров, Н.~И. and Волканов, Д.~Ю.},
+  title   = {Исследование применимости алгоритмов сжатия данных для таблиц потоков в сетевом процессоре {RuNPU}},
+  journal = {Труды Института системного программирования РАН},
+  year    = {2021},
+  volume  = {33},
+  number  = {4},
+  pages   = {77--86},
+  language= {russian},
 }
 
-@article{Bosshart2014,
-  author  = {Bosshart, Pat and Daly, Dan and Gibb, Glen and Izzard, Martin and McKeown, Nick and Rexford, Jennifer and Schlesinger, Cole and Talayco, Dan and Vahdat, Amin and Varghese, George and Walker, David},
-  title   = {P4: Programming Protocol-Independent Packet Processors},
-  journal = {ACM SIGCOMM Computer Communication Review},
-  year    = {2014},
-  volume  = {44},
-  number  = {3},
-  pages   = {87--95},
-  language = {english}
+@article{bosshart2013forwarding,
+  author   = {Bosshart, Patrick and Gibb, Glen and Kim, Hakim and Varghese, George and McKeown, Nick and Izzard, Martin and Mujica, Fernando and Horowitz, Mark},
+  title    = {Forwarding Metamorphosis: Fast Programmable Match-Action Processing in Hardware for {SDN}},
+  journal  = {ACM SIGCOMM Computer Communication Review},
+  year     = {2013},
+  volume   = {43},
+  number   = {4},
+  pages    = {99--110},
+  language = {english},
 }
 
-@misc{rmt-p4-placement,
-  title        = {{p4c}: reference compiler for the {P4} language},
-  howpublished = {GitHub},
-  url          = {https://github.com/p4lang/p4c},
-  note         = {дата обращения: 11.05.2026},
-  language     = {english}
+@inproceedings{jose2015compiling,
+  author       = {Jose, Lavanya and Yan, Lia and Varghese, George and McKeown, Nick},
+  title        = {Compiling Packet Programs to Reconfigurable Switches},
+  booktitle    = {Proceedings of the 12th {USENIX} Symposium on Networked Systems Design and Implementation ({NSDI} '15)},
+  year         = {2015},
+  pages        = {103--115},
+  language     = {english},
+}
+
+@inproceedings{vass2020compiling,
+  author    = {Vass, Boldizs{\'{a}}r and B{\'{e}}rczi-Kov{\'{a}}cs, Endre and Raiciu, Costin and R{\'{e}}tv{\'{a}}ri, G{\'{a}}bor},
+  title     = {Compiling Packet Programs to Reconfigurable Switches: Theory and Algorithms},
+  booktitle = {Proceedings of the 3rd {P4} Workshop in Europe ({EuroP4} '20)},
+  year      = {2020},
+  pages     = {28--35},
+  language  = {english},
+}
+
+@article{bosshart2014p4,
+  author   = {Bosshart, Patrick and Daly, Dan and Gibb, Glen and Izzard, Martin and McKeown, Nick and Rexford, Jennifer and Schlesinger, Cole and Talayco, Dan and Vahdat, Amin and Varghese, George and Walker, David},
+  title    = {{P4}: Programming Protocol-Independent Packet Processors},
+  journal  = {ACM SIGCOMM Computer Communication Review},
+  year     = {2014},
+  volume   = {44},
+  number   = {3},
+  pages    = {87--95},
+  language = {english},
+}
+
+@article{ffd_classic,
+  author   = {Johnson, David S. and Demers, Alan and Ullman, Jeffrey D. and Garey, Michael R. and Graham, Ronald L.},
+  title    = {Worst-Case Performance Bounds for Simple One-Dimensional Packing Algorithms},
+  journal  = {SIAM Journal on Computing},
+  year     = {1974},
+  volume   = {3},
+  number   = {4},
+  pages    = {299--325},
+  language = {english},
+}
+
+@misc{p4_spec,
+  author       = {{The P4 Language Consortium}},
+  title        = {{P4}-16 Language Specification, version 1.2.4},
+  howpublished = {\url{https://p4.org/p4-spec/docs/P4-16-v1.2.4.pdf}},
+  note         = {дата обращения: 15.05.2026},
+  language     = {english},
+}
+
+@misc{github_repo,
+  author       = {Рогинко, Алла Дмитриевна},
+  title        = {Репозиторий курсовой работы: {RMT} {P4} Compiler},
+  howpublished = {\url{https://github.com/alla-roginko/rmt-p4-compiler}},
+  note         = {дата обращения: 22.05.2026},
+  language     = {russian},
+}
+
+% Карточка в ИСТИНЕ МГУ: https://istina.msu.ru/publications/article/183708319/
+@article{bezzubtsev2019npu_maiss,
+  author   = {Беззубцев, С.~О. and Васин, В.~В. and Волканов, Д.~Ю. and Жайлауова, Ш.~Р. and Мирошник, В.~А. and Скобцова, Ю.~А. and Смелянский, Р.~Л.},
+  title    = {Об одном подходе к построению сетевого процессорного устройства},
+  journal  = {Моделирование и анализ информационных систем},
+  year     = {2019},
+  volume   = {26},
+  number   = {1},
+  pages    = {39--62},
+  doi      = {10.18255/1818-1015-2019-1-39-62},
+  note     = {\url{https://istina.msu.ru/publications/article/183708319/}},
+  language = {russian},
+}
+
+% Карточка в ИСТИНЕ МГУ: https://istina.msu.ru/publications/article/698564178/
+@inproceedings{nikiforov2024monetec_npu,
+  author    = {Nikiforov, N. and Volkanov, D. and Volchaninov, A. and Alexandrov, A.},
+  title     = {On modern approaches to the design network processor unit},
+  booktitle = {Proceedings of the 5th International Conference on Modern Network Technologies ({MONETEC}-2024)},
+  year      = {2024},
+  pages     = {75--82},
+  address   = {Moscow},
+  publisher = {Moscow State University Publishing House},
+  doi       = {10.55959/MSU012160-5-2024},
+  note      = {Paper~13; \url{https://istina.msu.ru/publications/article/698564178/}},
+  language  = {english},
 }

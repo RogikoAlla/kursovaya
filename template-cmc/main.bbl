@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 \def\selectlanguageifdefined#1{
 \expandafter\ifx\csname date#1\endcsname\relax
 \else\language\csname l@#1\endcsname\fi}
@@ -7,27 +7,96 @@
 \ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi
 \ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
 
-\bibitem{p4spec}
+\bibitem{vass2020compiling}
 \selectlanguageifdefined{english}
-P4 Language Specification. ---
-\newblock P4.org. ---
-\newblock дата обращения: 11.05.2026. \BibUrl{
-  https://p4.org/specs/}.
+Compiling Packet Programs to Reconfigurable Switches: Theory and Algorithms~/
+  Boldizs{\'{a}}r~Vass, Endre~B{\'{e}}rczi-Kov{\'{a}}cs, Costin~Raiciu,
+  G{\'{a}}bor~R{\'{e}}tv{\'{a}}ri~// Proceedings of the 3rd {P4} Workshop in
+  Europe ({EuroP4} '20). ---
+\newblock 2020. ---
+\newblock Pp.~28--35.
 
-\bibitem{Bosshart2014}
+\bibitem{jose2015compiling}
 \selectlanguageifdefined{english}
-P4: Programming Protocol-Independent Packet Processors~/ Pat~Bosshart,
+Compiling Packet Programs to Reconfigurable Switches~/ Lavanya~Jose, Lia~Yan,
+  George~Varghese, Nick~McKeown~// Proceedings of the 12th {USENIX} Symposium
+  on Networked Systems Design and Implementation ({NSDI} '15). ---
+\newblock 2015. ---
+\newblock Pp.~103--115.
+
+\bibitem{nikiforov2021isp_ran}
+\selectlanguageifdefined{russian}
+\BibEmph{Никифоров,~Н.~И.} Исследование
+  применимости алгоритмов сжатия данных
+  для таблиц потоков в сетевом процессоре
+  {RuNPU}~/ Н.~И.~Никифоров, Д.~Ю.~Волканов~//
+  \BibEmph{Труды Института системного
+  программирования РАН}. ---
+\newblock 2021. ---
+\newblock Т.~33, {№}~4. ---
+\newblock {С.}~77--86.
+
+\bibitem{bosshart2013forwarding}
+\selectlanguageifdefined{english}
+Forwarding Metamorphosis: Fast Programmable Match-Action Processing in Hardware
+  for {SDN}~/ Patrick~Bosshart, Glen~Gibb, Hakim~Kim et~al.~// \BibEmph{ACM
+  SIGCOMM Computer Communication Review}. ---
+\newblock 2013. ---
+\newblock Vol.~43, no.~4. ---
+\newblock Pp.~99--110.
+
+\bibitem{bosshart2014p4}
+\selectlanguageifdefined{english}
+{P4}: Programming Protocol-Independent Packet Processors~/ Patrick~Bosshart,
   Dan~Daly, Glen~Gibb et~al.~// \BibEmph{ACM SIGCOMM Computer Communication
   Review}. ---
 \newblock 2014. ---
 \newblock Vol.~44, no.~3. ---
 \newblock Pp.~87--95.
 
-\bibitem{rmt-p4-placement}
+\bibitem{ffd_classic}
 \selectlanguageifdefined{english}
-{p4c}: reference compiler for the {P4} language. ---
-\newblock GitHub. ---
-\newblock дата обращения: 11.05.2026. \BibUrl{
-  https://github.com/p4lang/p4c}.
+Worst-Case Performance Bounds for Simple One-Dimensional Packing Algorithms~/
+  David~S.~Johnson, Alan~Demers, Jeffrey~D.~Ullman et~al.~// \BibEmph{SIAM
+  Journal on Computing}. ---
+\newblock 1974. ---
+\newblock Vol.~3, no.~4. ---
+\newblock Pp.~299--325.
+
+\bibitem{p4_spec}
+\selectlanguageifdefined{english}
+\BibEmph{{The P4 Language Consortium}}. {P4}-16 Language Specification, version
+  1.2.4. ---
+\newblock \url{https://p4.org/p4-spec/docs/P4-16-v1.2.4.pdf}. ---
+\newblock дата обращения: 15.05.2026.
+
+\bibitem{github_repo}
+\selectlanguageifdefined{russian}
+\BibEmph{Рогинко,~Алла~Дмитриевна}. Репозиторий
+  курсовой работы: {RMT} {P4} Compiler. ---
+\newblock \url{https://github.com/alla-roginko/rmt-p4-compiler}. ---
+\newblock дата обращения: 22.05.2026.
+
+\bibitem{bezzubtsev2019npu_maiss}
+\selectlanguageifdefined{russian}
+Об одном подходе к построению сетевого
+  процессорного устройства~/ С.~О.~Беззубцев,
+  В.~В.~Васин, Д.~Ю.~Волканов {и~др.}~//
+  \BibEmph{Моделирование и анализ
+  информационных систем}. ---
+\newblock 2019. ---
+\newblock Т.~26, {№}~1. ---
+\newblock {С.}~39--62. ---
+\newblock \url{https://istina.msu.ru/publications/article/183708319/}.
+
+\bibitem{nikiforov2024monetec_npu}
+\selectlanguageifdefined{english}
+On modern approaches to the design network processor unit~/ N.~Nikiforov,
+  D.~Volkanov, A.~Volchaninov, A.~Alexandrov~// Proceedings of the 5th
+  International Conference on Modern Network Technologies ({MONETEC}-2024). ---
+\newblock Moscow: Moscow State University Publishing House, 2024. ---
+\newblock Pp.~75--82. ---
+\newblock Paper~13;
+  \url{https://istina.msu.ru/publications/article/698564178/}.
 
 \end{thebibliography}
