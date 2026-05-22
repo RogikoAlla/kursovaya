@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.22)  22 MAY 2026 16:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.22)  22 MAY 2026 18:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1044,7 +1044,7 @@ Package hyperref Info: Link coloring OFF on input line 77.
 \openout4 = `main.out'.
 
 \c@lstlisting=\count367
-<./gzlogo.png, id=142, 1335.99126pt x 569.12625pt>
+<./gzlogo.png, id=162, 1335.99126pt x 569.12625pt>
 File: ./gzlogo.png Graphic file (type png)
 <use ./gzlogo.png>
 Package pdftex.def Info: ./gzlogo.png  used on input line 78.
@@ -1179,23 +1179,62 @@ If that doesn't work, type  X <return>  to quit.
 LaTeX Warning: Citation `jose2015compiling' on page 18 undefined on input line 
 109.
 
-[18]) [19] [20]
+[18]) [19]
 \openout2 = `Chapter6.aux'.
 
  (Chapter6.tex
-Overfull \hbox (7.21703pt too wide) in paragraph at lines 13--14
-\T2A/cmr/m/n/12 ма-лы; при $\OML/cmm/m/it/12 n$ \T2A/cmr/m/n/12 по-р€д-ка со-те
-н до-пол-ни-тель-ные рас-хо-ды FFLS оста-ют-с€ сортировочно-
+Overfull \hbox (9.01385pt too wide) in paragraph at lines 19--20
+[]\T2A/cmr/m/n/12 ƒл€ экс-пе-ри-мен-тов бы-ли сге-не-ри-ро-ва-ны син-те-ти-че-с
+кие кон-фи-гу-ра-ции, каж-
  []
 
-[21
+[20
 
 
 
-]) [22]
+]
+<plot_time_by_entries.png, id=352, 855.6768pt x 494.3268pt>
+File: plot_time_by_entries.png Graphic file (type png)
+<use plot_time_by_entries.png>
+Package pdftex.def Info: plot_time_by_entries.png  used on input line 63.
+(pdftex.def)             Requested size: 390.25534pt x 225.45457pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[21]
+<plot_stages_by_entries.png, id=358, 855.6768pt x 494.3268pt>
+File: plot_stages_by_entries.png Graphic file (type png)
+<use plot_stages_by_entries.png>
+Package pdftex.def Info: plot_stages_by_entries.png  used on input line 83.
+(pdftex.def)             Requested size: 390.25534pt x 225.45457pt.
+ [22 <./plot_time_by_entries.png>]
+<plot_bar_stages_by_entries.png, id=365, 1144.7568pt x 709.6914pt>
+File: plot_bar_stages_by_entries.png Graphic file (type png)
+<use plot_bar_stages_by_entries.png>
+Package pdftex.def Info: plot_bar_stages_by_entries.png  used on input line 102
+.
+(pdftex.def)             Requested size: 390.25534pt x 241.93079pt.
+ [23 <./plot_stages_by_entries.png>]
+<plot_bar_time_by_entries.png, id=372, 1144.7568pt x 709.6914pt>
+File: plot_bar_time_by_entries.png Graphic file (type png)
+<use plot_bar_time_by_entries.png>
+Package pdftex.def Info: plot_bar_time_by_entries.png  used on input line 109.
+(pdftex.def)             Requested size: 390.25534pt x 241.93079pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (47.85399pt too wide) in paragraph at lines 117--118
+[]\T2A/cmr/m/n/12 ¬ыбросы встре-ча-ют-с€ в кон-фи-гу-ра-ци-€х с длин-ны-ми це-п
+оч-ка-ми match-зависимостей,
+ []
+
+) [24 <./plot_bar_stages_by_entries.png>] [25 <./plot_bar_time_by_entries.png>]
 \openout2 = `Chapter7.aux'.
 
- (Chapter7.tex) [23
+(Chapter7.tex) [26
 
 
 
@@ -1205,7 +1244,7 @@ Underfull \hbox (badness 1028) in paragraph at lines 19--25
 Bosshart,
  []
 
-) [24
+) [27
 
 
 ] (main.aux (Chapter0.aux) (Chapter1.aux) (Chapter2.aux) (Chapter3.aux)
@@ -1218,17 +1257,14 @@ L3 programming layer <2026-03-20>
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 649FEF80D557B39C81CAD386FAC572BB;9542.
+(rerunfilecheck)             Checksum: BBDFC52B7EA3E6B197962C2E242C9E40;10419.
  ) 
 Here is how much of TeX's memory you used:
- 27107 strings out of 467690
- 488025 string characters out of 5425033
- 885285 words of memory out of 5000000
- 55555 multiletter control sequences out of 15000+600000
+ 27159 strings out of 467690
+ 489409 string characters out of 5425033
+ 885690 words of memory out of 5000000
+ 55595 multiletter control sequences out of 15000+600000
  641627 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,10n,108p,1827b,938s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1250,9 +1286,9 @@ ram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKT
 eX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/typ
 e1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/ams
 fonts/symbols/msbm10.pfb>
-Output written on main.pdf (24 pages, 360548 bytes).
+Output written on main.pdf (27 pages, 1076433 bytes).
 PDF statistics:
- 939 PDF objects out of 1000 (max. 8388607)
- 111 named destinations out of 1000 (max. 500000)
- 290 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 994 PDF objects out of 1000 (max. 8388607)
+ 123 named destinations out of 1000 (max. 500000)
+ 350 words of extra memory for PDF output out of 10000 (max. 10000000)
 

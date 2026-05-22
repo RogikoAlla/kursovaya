@@ -29,11 +29,16 @@
 \contentsline {subsubsection}{\numberline {5.3.3}Реализация многопроходного FFD}{17}{subsubsection.5.3.3}%
 \contentsline {subsubsection}{\numberline {5.3.4}Реализация FFLS}{18}{subsubsection.5.3.4}%
 \contentsline {subsubsection}{\numberline {5.3.5}Вычисление уровней}{18}{subsubsection.5.3.5}%
-\contentsline {subsection}{\numberline {5.4}Репозиторий кода}{20}{subsection.5.4}%
-\contentsline {section}{\numberline {6}Экспериментальное исследование}{21}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Методика экспериментального исследования}{21}{subsection.6.1}%
+\contentsline {section}{\numberline {6}Экспериментальное исследование}{20}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Методика экспериментального исследования}{20}{subsection.6.1}%
+\contentsline {subsubsection}{\numberline {6.1.1}Цели эксперимента}{20}{subsubsection.6.1.1}%
+\contentsline {subsubsection}{\numberline {6.1.2}Исходные данные}{20}{subsubsection.6.1.2}%
+\contentsline {subsubsection}{\numberline {6.1.3}Параметры эксперимента}{21}{subsubsection.6.1.3}%
+\contentsline {subsubsection}{\numberline {6.1.4}Обработка результатов}{21}{subsubsection.6.1.4}%
 \contentsline {subsection}{\numberline {6.2}Анализ полученных результатов}{21}{subsection.6.2}%
-\contentsline {subsubsection}{\numberline {6.2.1}Результаты сравнения алгоритмов по времени выполнения}{21}{subsubsection.6.2.1}%
-\contentsline {subsubsection}{\numberline {6.2.2}Результаты сравнения алгоритмов по количеству стадий}{21}{subsubsection.6.2.2}%
-\contentsline {section}{\numberline {7}Заключение}{23}{section.7}%
-\contentsline {section}{{\cyrillictext \CYRS \cyrp \cyri \cyrs \cyro \cyrk \ \cyrl \cyri \cyrt \cyre \cyrr \cyra \cyrt \cyru \cyrr \cyrery }}{24}{section*.9}%
+\contentsline {subsubsection}{\numberline {6.2.1}Результаты сравнения по времени выполнения}{21}{subsubsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2}Результаты сравнения по количеству стадий}{23}{subsubsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.3}Гистограммы с усами}{24}{subsubsection.6.2.3}%
+\contentsline {subsection}{\numberline {6.3}Погрешности}{25}{subsection.6.3}%
+\contentsline {section}{\numberline {7}Заключение}{26}{section.7}%
+\contentsline {section}{{\cyrillictext \CYRS \cyrp \cyri \cyrs \cyro \cyrk \ \cyrl \cyri \cyrt \cyre \cyrr \cyra \cyrt \cyru \cyrr \cyrery }}{27}{section*.13}%
