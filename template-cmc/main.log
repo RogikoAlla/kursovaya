@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.22)  19 MAY 2026 14:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.22)  22 MAY 2026 16:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -984,7 +984,8 @@ File: l3backend-pdftex.def 2026-02-18 L3 backend support: PDF output (pdfTeX)
 Package babel Info: 'russian' activates 'russian' shorthands.
 (babel)             Reported on input line 8.
 
-(Chapter0.aux) (Chapter1.aux) (Chapter2.aux) (Chapter3.aux) (Chapter4.aux))
+(Chapter0.aux) (Chapter1.aux) (Chapter2.aux) (Chapter3.aux) (Chapter4.aux)
+(Chapter6.aux) (Chapter7.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
@@ -1043,7 +1044,7 @@ Package hyperref Info: Link coloring OFF on input line 77.
 \openout4 = `main.out'.
 
 \c@lstlisting=\count367
-<./gzlogo.png, id=102, 1335.99126pt x 569.12625pt>
+<./gzlogo.png, id=142, 1335.99126pt x 569.12625pt>
 File: ./gzlogo.png Graphic file (type png)
 <use ./gzlogo.png>
 Package pdftex.def Info: ./gzlogo.png  used on input line 78.
@@ -1063,57 +1064,63 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
 
 (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
+)
+Overfull \hbox (1.11975pt too wide) in paragraph at lines 28--28
+ [][] [][]\T2A/cmr/m/n/12 Размещение фраг-мен-та и об-щий пре-ди-кат до-пу-сти-
+мо-сти ста- 
+ []
+
+[3
+
+])
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
- [3
-
-]
+ [4]
 \openout2 = `Chapter0.aux'.
 
- (Chapter0.tex)
-[4
+ (Chapter0.tex) [5
 
 ]
 \openout2 = `Chapter1.aux'.
 
- (Chapter1.tex [5
+ (Chapter1.tex [6
 
 
 
-] [6]) [7]
+] [7]) [8]
 \openout2 = `Chapter2.aux'.
 
- (Chapter2.tex [8
+ (Chapter2.tex [9
 
 
 
-]) [9]
+])
+[10]
 \openout2 = `Chapter3.aux'.
 
  (Chapter3.tex
 
-LaTeX Warning: Citation `vass2020compiling' on page 10 undefined on input line 
+LaTeX Warning: Citation `vass2020compiling' on page 11 undefined on input line 
 7.
 
 
-LaTeX Warning: Citation `jose2015compiling' on page 10 undefined on input line 
+LaTeX Warning: Citation `jose2015compiling' on page 11 undefined on input line 
 12.
 
 
-LaTeX Warning: Citation `jose2015compiling' on page 10 undefined on input line 
+LaTeX Warning: Citation `jose2015compiling' on page 11 undefined on input line 
 18.
 
 
-LaTeX Warning: Citation `jose2015compiling' on page 10 undefined on input line 
+LaTeX Warning: Citation `jose2015compiling' on page 11 undefined on input line 
 21.
 
-[10
+[11
 
 
 
-]) [11] [12]
+]) [12] [13]
 \openout2 = `Chapter4.aux'.
 
  (Chapter4.tex
@@ -1122,7 +1129,7 @@ LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line
 
 (C:\Program Files\MiKTeX\tex/latex/cyrillic\t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-) [13
+) [14
 
 
 
@@ -1133,9 +1140,15 @@ Overfull \hbox (16.33424pt too wide) in paragraph at lines 46--47
 verse_match-
  []
 
-[14]
+[15]
+Overfull \hbox (11.1482pt too wide) in paragraph at lines 65--66
+[]\T2A/cmr/m/n/12 Результат раз-ме-ще-ния хра-нит-ся в двух ос-нов-ных струк-ту
+-рах. Спи-сок \T2A/cmtt/m/n/12 stages
+ []
+
+[16]
 Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
-put line 62.
+put line 80.
 
 
 ! LaTeX Error: Something's wrong--perhaps a missing \item.
@@ -1144,7 +1157,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.64 ...ЃС‚Р°РґРёРё $C$, Р·Р°РІРёСЃРёРјРѕСЃС‚Рё \\
+l.82 ...ЃС‚Р°РґРёРё $C$, Р·Р°РІРёСЃРёРјРѕСЃС‚Рё \\
                                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1156,26 +1169,47 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.66 		\STATE
+l.84 		\STATE
               РІС‹С‡РёСЃР»РёС‚СЊ $\text{blocks}(t)$ РґР»СЏ РІСЃРµС… $t \in T$
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
+[17]
 
-LaTeX Warning: Citation `jose2015compiling' on page 15 undefined on input line 
-90.
+LaTeX Warning: Citation `jose2015compiling' on page 18 undefined on input line 
+109.
 
-[15] [16]) [17] (main.bbl
-Underfull \hbox (badness 1028) in paragraph at lines 12--18
+[18]) [19] [20]
+\openout2 = `Chapter6.aux'.
+
+ (Chapter6.tex
+Overfull \hbox (7.21703pt too wide) in paragraph at lines 13--14
+\T2A/cmr/m/n/12 ма-лы; при $\OML/cmm/m/it/12 n$ \T2A/cmr/m/n/12 по-ряд-ка со-те
+н до-пол-ни-тель-ные рас-хо-ды FFLS оста-ют-ся сортировочно-
+ []
+
+[21
+
+
+
+]) [22]
+\openout2 = `Chapter7.aux'.
+
+ (Chapter7.tex) [23
+
+
+
+] (main.bbl
+Underfull \hbox (badness 1028) in paragraph at lines 19--25
 []\T2A/cmr/m/n/12 P4: Programming Protocol-Independent Packet Processors / Pat 
 Bosshart,
  []
 
-) [18
+) [24
 
 
 ] (main.aux (Chapter0.aux) (Chapter1.aux) (Chapter2.aux) (Chapter3.aux)
-(Chapter4.aux))
+(Chapter4.aux) (Chapter6.aux) (Chapter7.aux))
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-03-20>
@@ -1184,17 +1218,20 @@ L3 programming layer <2026-03-20>
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 8048CDD874135F941D9AAC9EB9885967;6027.
+(rerunfilecheck)             Checksum: 649FEF80D557B39C81CAD386FAC572BB;9542.
  ) 
 Here is how much of TeX's memory you used:
- 27027 strings out of 467690
- 486053 string characters out of 5425033
- 884616 words of memory out of 5000000
- 55505 multiletter control sequences out of 15000+600000
+ 27107 strings out of 467690
+ 488025 string characters out of 5425033
+ 885285 words of memory out of 5000000
+ 55555 multiletter control sequences out of 15000+600000
  641627 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,10n,108p,1328b,938s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,10n,108p,1827b,938s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\drogi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\latt12
 00.pk> <C:\Users\drogi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
 rm0800.pk> <C:\Users\drogi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
@@ -1213,9 +1250,9 @@ ram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKT
 eX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/typ
 e1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/ams
 fonts/symbols/msbm10.pfb>
-Output written on main.pdf (18 pages, 332839 bytes).
+Output written on main.pdf (24 pages, 360548 bytes).
 PDF statistics:
- 844 PDF objects out of 1000 (max. 8388607)
- 95 named destinations out of 1000 (max. 500000)
- 210 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 939 PDF objects out of 1000 (max. 8388607)
+ 111 named destinations out of 1000 (max. 500000)
+ 290 words of extra memory for PDF output out of 10000 (max. 10000000)
 

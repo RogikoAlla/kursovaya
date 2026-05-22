@@ -12,8 +12,6 @@ A level-1 auxiliary file: Chapter3.aux
 Reallocating 'name_of_file' (item size: 1) to 13 items.
 A level-1 auxiliary file: Chapter4.aux
 Reallocating 'name_of_file' (item size: 1) to 13 items.
-A level-1 auxiliary file: Chapter5.aux
-Reallocating 'name_of_file' (item size: 1) to 13 items.
 A level-1 auxiliary file: Chapter6.aux
 Reallocating 'name_of_file' (item size: 1) to 13 items.
 A level-1 auxiliary file: Chapter7.aux
@@ -21,9 +19,11 @@ Reallocating 'name_of_file' (item size: 1) to 8 items.
 The style file: gost71u.bst
 Reallocating 'name_of_file' (item size: 1) to 11 items.
 Database file #1: references.bib
+Warning--I didn't find a database entry for "vass2020compiling"
+Warning--I didn't find a database entry for "jose2015compiling"
 You've used 3 entries,
             2674 wiz_defined-function locations,
-            663 strings with 5612 characters,
+            664 strings with 5634 characters,
 and the built_in function-call counts, 753 in all, are:
 = -- 96
 > -- 18
@@ -62,3 +62,4 @@ warning$ -- 0
 while$ -- 4
 width$ -- 4
 write$ -- 59
+(There were 2 warnings)
