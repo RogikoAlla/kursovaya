@@ -45,6 +45,9 @@
 %
 \NeedsTeXFormat{LaTeX2e} \ProvidesClass{BYUPhysForDegree}
 
+% Для \ifdefempty: опционально пустой второй блок названия (\TitleBottom{} без лишней строки).
+\RequirePackage{etoolbox}
+
 % ---------------------------- declarations -------------------------
 %
 % These macros are used to declare arguments needed for the
@@ -397,8 +400,9 @@
 	    \vfill
 	    {\Large \strut\@Author \\[\baselineskip]}
 	    {%\HRule \\[0.4cm]
-	     \Large \textbf{\strut\@TitleTop}\\
-	     \textbf{\strut\@TitleBottom}\\[\baselineskip]
+	     \Large \textbf{\strut\@TitleTop}%
+	     \ifdefempty{\@TitleBottom}{\\[\baselineskip]}%
+	     {\\\textbf{\strut\@TitleBottom}\\[\baselineskip]}%
 	      \large \@docname \\[\baselineskip] }
 	    %\HRule \\[1.5cm]
 	    \normalsize
@@ -584,8 +588,9 @@
     \providecommand\pdfbookmark[3][]{} \pdfbookmark[1]{Abstract}{bm:Abstract}    
     \vspace*{0.375in}
     {\bf \@AbstractText}\\[1\baselineskip]
-    {\large \strut\@TitleTop\\
-    \strut\@TitleBottom}\\[1\baselineskip]
+    {\large \strut\@TitleTop%
+    \ifdefempty{\@TitleBottom}{}{\\\strut\@TitleBottom}%
+    }\\[1\baselineskip]
     {\em \strut\@Author}\\[\baselineskip]
     \end{center}   
     \renewcommand{\baselinestretch}{1.33}\small\normalsize
@@ -596,8 +601,9 @@
  	%\providecommand\pdfbookmark[3][]{} \pdfbookmark[0]{Abstract}{bm:Abstract}    
     \vspace*{0.375in}
     {\bf Abstract}\\[1\baselineskip]
-    {\large \strut\@TitleTopEng\\
-    \strut\@TitleBottomEng}\\[1\baselineskip]
+    {\large \strut\@TitleTopEng%
+    \ifdefempty{\@TitleBottomEng}{}{\\\strut\@TitleBottomEng}%
+    }\\[1\baselineskip]
     {\em \strut\@AuthorEng}\\[\baselineskip]
     \end{center}   
     \renewcommand{\baselinestretch}{1.33}\small\normalsize

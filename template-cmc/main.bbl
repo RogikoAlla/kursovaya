@@ -7,14 +7,33 @@
 \ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi
 \ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
 
-\bibitem{vass2020compiling}
+\bibitem{bezzubtsev2019npu_maiss}
+\selectlanguageifdefined{russian}
+Об одном подходе к построению сетевого
+  процессорного устройства~/ С.~О.~Беззубцев,
+  В.~В.~Васин, Д.~Ю.~Волканов {и~др.}~//
+  \BibEmph{Моделирование и анализ
+  информационных систем}. ---
+\newblock 2019. ---
+\newblock Т.~26, {№}~1. ---
+\newblock {С.}~39--62. ---
+\newblock \url{https://istina.msu.ru/publications/article/183708319/}.
+
+\bibitem{bosshart2013forwarding}
 \selectlanguageifdefined{english}
-Compiling Packet Programs to Reconfigurable Switches: Theory and Algorithms~/
-  Boldizs{\'{a}}r~Vass, Endre~B{\'{e}}rczi-Kov{\'{a}}cs, Costin~Raiciu,
-  G{\'{a}}bor~R{\'{e}}tv{\'{a}}ri~// Proceedings of the 3rd {P4} Workshop in
-  Europe ({EuroP4} '20). ---
-\newblock 2020. ---
-\newblock Pp.~28--35.
+Forwarding Metamorphosis: Fast Programmable Match-Action Processing in Hardware
+  for {SDN}~/ Patrick~Bosshart, Glen~Gibb, Hakim~Kim et~al.~// \BibEmph{ACM
+  SIGCOMM Computer Communication Review}. ---
+\newblock 2013. ---
+\newblock Vol.~43, no.~4. ---
+\newblock Pp.~99--110.
+
+\bibitem{p4_spec}
+\selectlanguageifdefined{english}
+\BibEmph{{The P4 Language Consortium}}. {P4}-16 Language Specification, version
+  1.2.4. ---
+\newblock \url{https://p4.org/p4-spec/docs/P4-16-v1.2.4.pdf}. ---
+\newblock дата обращения: 15.05.2026.
 
 \bibitem{jose2015compiling}
 \selectlanguageifdefined{english}
@@ -23,6 +42,15 @@ Compiling Packet Programs to Reconfigurable Switches~/ Lavanya~Jose, Lia~Yan,
   on Networked Systems Design and Implementation ({NSDI} '15). ---
 \newblock 2015. ---
 \newblock Pp.~103--115.
+
+\bibitem{vass2020compiling}
+\selectlanguageifdefined{english}
+Compiling Packet Programs to Reconfigurable Switches: Theory and Algorithms~/
+  Boldizs{\'{a}}r~Vass, Endre~B{\'{e}}rczi-Kov{\'{a}}cs, Costin~Raiciu,
+  G{\'{a}}bor~R{\'{e}}tv{\'{a}}ri~// Proceedings of the 3rd {P4} Workshop in
+  Europe ({EuroP4} '20). ---
+\newblock 2020. ---
+\newblock Pp.~28--35.
 
 \bibitem{nikiforov2021isp_ran}
 \selectlanguageifdefined{russian}
@@ -35,15 +63,6 @@ Compiling Packet Programs to Reconfigurable Switches~/ Lavanya~Jose, Lia~Yan,
 \newblock 2021. ---
 \newblock Т.~33, {№}~4. ---
 \newblock {С.}~77--86.
-
-\bibitem{bosshart2013forwarding}
-\selectlanguageifdefined{english}
-Forwarding Metamorphosis: Fast Programmable Match-Action Processing in Hardware
-  for {SDN}~/ Patrick~Bosshart, Glen~Gibb, Hakim~Kim et~al.~// \BibEmph{ACM
-  SIGCOMM Computer Communication Review}. ---
-\newblock 2013. ---
-\newblock Vol.~43, no.~4. ---
-\newblock Pp.~99--110.
 
 \bibitem{bosshart2014p4}
 \selectlanguageifdefined{english}
@@ -63,31 +82,12 @@ Worst-Case Performance Bounds for Simple One-Dimensional Packing Algorithms~/
 \newblock Vol.~3, no.~4. ---
 \newblock Pp.~299--325.
 
-\bibitem{p4_spec}
-\selectlanguageifdefined{english}
-\BibEmph{{The P4 Language Consortium}}. {P4}-16 Language Specification, version
-  1.2.4. ---
-\newblock \url{https://p4.org/p4-spec/docs/P4-16-v1.2.4.pdf}. ---
-\newblock дата обращения: 15.05.2026.
-
 \bibitem{github_repo}
 \selectlanguageifdefined{russian}
 \BibEmph{Рогинко,~Алла~Дмитриевна}. Репозиторий
   курсовой работы: {RMT} {P4} Compiler. ---
 \newblock \url{https://github.com/alla-roginko/rmt-p4-compiler}. ---
 \newblock дата обращения: 22.05.2026.
-
-\bibitem{bezzubtsev2019npu_maiss}
-\selectlanguageifdefined{russian}
-Об одном подходе к построению сетевого
-  процессорного устройства~/ С.~О.~Беззубцев,
-  В.~В.~Васин, Д.~Ю.~Волканов {и~др.}~//
-  \BibEmph{Моделирование и анализ
-  информационных систем}. ---
-\newblock 2019. ---
-\newblock Т.~26, {№}~1. ---
-\newblock {С.}~39--62. ---
-\newblock \url{https://istina.msu.ru/publications/article/183708319/}.
 
 \bibitem{nikiforov2024monetec_npu}
 \selectlanguageifdefined{english}
