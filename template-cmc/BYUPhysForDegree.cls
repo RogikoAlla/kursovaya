@@ -585,7 +585,7 @@
     \thispagestyle{empty}
     \begin{abstractenv}
     \begin{center}
-    \providecommand\pdfbookmark[3][]{} \pdfbookmark[1]{Abstract}{bm:Abstract}    
+    \providecommand\pdfbookmark[3][]{} \pdfbookmark[1]{Аннотация}{bm:Abstract}    
     \vspace*{0.375in}
     {\bf \@AbstractText}\\[1\baselineskip]
     {\large \strut\@TitleTop%
@@ -596,11 +596,10 @@
     \renewcommand{\baselinestretch}{1.33}\small\normalsize
     \@Abstract
     \vfill	
-
+    % Англоязычная часть только при непустом \@AbstractEng (без заголовка «Abstract»).
+    \ifdefempty{\@AbstractEng}{}{%
     \begin{center}
- 	%\providecommand\pdfbookmark[3][]{} \pdfbookmark[0]{Abstract}{bm:Abstract}    
     \vspace*{0.375in}
-    {\bf Abstract}\\[1\baselineskip]
     {\large \strut\@TitleTopEng%
     \ifdefempty{\@TitleBottomEng}{}{\\\strut\@TitleBottomEng}%
     }\\[1\baselineskip]
@@ -608,6 +607,8 @@
     \end{center}   
     \renewcommand{\baselinestretch}{1.33}\small\normalsize
     \@AbstractEng
+    \vfill
+    }%
 
     \end{abstractenv}
     \clearemptydoublepage
